@@ -1,0 +1,64 @@
+﻿@model  IEnumerable<Work1.Models.viewmodel.BookVretrive>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<div class="row">
+    <div class="col">
+        <h2>Hotel Booking information</h2>
+        <h4 class="">Multi Inserted Table ...</h4>
+        <div class="text-right">
+            <a href="@Url.Action("Create","HotelBook")" class="btn btn-primary" style="margin-bottom:5px;">Add New Customer</a>
+        </div>
+        <table class="table table-bordered table-striped table-light table-hover">
+            <thead class="table-info">
+                <tr>
+
+                    <th>@Html.DisplayNameFor(x => x.checkingdate)</th>
+                    <th>@Html.DisplayNameFor(x => x.checkingOut)</th>
+                    <th>@Html.DisplayNameFor(x => x.duration)</th>
+                    <th>@Html.DisplayNameFor(x => x.cost)</th>
+                    <th>@Html.DisplayNameFor(x => x.custname)</th>
+
+                    <th>@Html.DisplayNameFor(x => x.phone)</th>
+                
+
+                 
+                    <th>@Html.DisplayNameFor(x => x.roomStatus)</th>
+                    <th>@Html.DisplayNameFor(x => x.picturePath)</th>
+                    <th>@Html.DisplayNameFor(x => x.roomType1)</th>
+                    <th>@Html.DisplayNameFor(x => x.RoomCost2)</th>
+                    <th>.....Actions.....</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var i in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(x => i.checkingdate)</td>
+                        <td>@Html.DisplayFor(x => i.checkingOut)</td>
+                        <td>@Html.DisplayFor(x => i.duration)</td>
+                        <td>@Html.DisplayFor(x => i.cost)</td>
+                        <td>@Html.DisplayFor(x => i.custname)</td>
+
+                        <td>@Html.DisplayFor(x => i.phone)</td>
+
+
+                        <td>@Html.DisplayFor(x => i.roomStatus)</td>
+                        <td>
+                            <img src="@Url.Content(i.picturePath)" width="40" />
+                        </td>
+                        <td>@Html.DisplayFor(x => i.roomType1)</td>
+                        <td>@Html.DisplayFor(x => i.RoomCost2)</td>
+                        <td>
+                            <a href="@Url.Action("Edit","HotelBook",new {id=i.bookid })" class="btn btn-success">Edit</a>
+                            <a href="@Url.Action("Delete","HotelBook",new { id=i.bookid})" class="btn btn-danger">Delete</a>
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@Page.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/font-awesome.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-3.6.0.js"></script>
+    <script src="~/Scripts/modernizr-2.8.3.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.3/font/bootstrap-icons.min.css" />
+    <link href="~/Content/StyleSheet1.css" rel="stylesheet" />
+    @RenderSection("styles", required: false)
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-light fixed-top border-bottom bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">IsDB</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"s>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li>
+                        @Html.ActionLink("Home", "Index", "Home", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li>
+                        @Html.ActionLink("Hotel Rooms", "Index", "HotelBook", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li>
+                        @Html.ActionLink("Employees", "Index", "Employees", new { }, new { @class = "nav-link" })
+                    </li>
+
+                </ul>
+                <ul class="nav navbar-nav ms-auto">
+                    @if (Request.IsAuthenticated)
+                    {
+                        <li>
+                            @Html.ActionLink("Hello, " + User.Identity.Name + " !", "Index", "", new { @class = "nav-link" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Logout", "Logout", "Account", new { }, new { @class = "nav-link" })
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="active">
+                            @Html.ActionLink("Register", "Register", "Account", new { }, new { @class = "nav-link" })
+                        </li>
+                        <li class="active">
+                            @Html.ActionLink("Login", "LOgin", "Account", new { }, new { @class = "nav-link" })
+                        </li>
+                    }
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+   
+    <div class="container-fluid">
+        @RenderBody()
+    </div>
+    <footer class="container-fluid text-center">
+        &copy; - @DateTime.Now.Year
+    </footer>
+    @RenderSection("scripts", false)
+    <script src="~/Scripts/bootstrap.bundle.js"></script>
+</body>
+</html>

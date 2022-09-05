@@ -1,0 +1,263 @@
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Work1.dll.config
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Work1.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Work1.pdb
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csc.exe
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csc.exe.config
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csc.rsp
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csi.exe
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csi.exe.config
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csi.rsp
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.AppContext.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Collections.Immutable.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Console.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Globalization.Calendars.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.Compression.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.FileSystem.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Net.Http.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Net.Sockets.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Reflection.Metadata.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.ValueTuple.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.XPath.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\vbc.exe
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\vbc.exe.config
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\vbc.rsp
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\VBCSCompiler.exe
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\VBCSCompiler.exe.config
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.SqlServer.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.Security.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Web.Infrastructure.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Owin.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Helpers.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Mvc.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Razor.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Deployment.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Razor.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.SqlServer.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.Security.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Razor.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Deployment.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Razor.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Helpers.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Mvc.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.CoreCompileInputs.cache
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.CopyComplete
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.dll
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.pdb
+D:\CORE COURSE C#.NET\6.mvc\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Work1.dll.config
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Work1.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Work1.pdb
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csc.exe.config
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csc.rsp
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csi.exe
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csi.exe.config
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csi.rsp
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.AppContext.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Console.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Net.Http.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\vbc.exe.config
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\vbc.rsp
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.SqlServer.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.Security.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Owin.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Helpers.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Mvc.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Razor.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.SqlServer.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.Security.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Razor.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Helpers.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Mvc.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.CopyComplete
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.dll
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.pdb
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.Migrations.scriptA.resources
+C:\Users\Student\Desktop\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.GenerateResource.cache
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Work1.dll.config
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Work1.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Work1.pdb
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csc.exe
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csc.exe.config
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csc.rsp
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csi.exe
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csi.exe.config
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\csi.rsp
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.AppContext.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Console.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Net.Http.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\vbc.exe
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\vbc.exe.config
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\vbc.rsp
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.SqlServer.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.Security.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Owin.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Helpers.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Mvc.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Razor.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\EntityFramework.SqlServer.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.Security.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Razor.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Helpers.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\System.Web.Mvc.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.AssemblyReference.cache
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.Migrations.scriptA.resources
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.GenerateResource.cache
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.CoreCompileInputs.cache
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.csproj.CopyComplete
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\obj\Debug\Work1.pdb
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mamun\Desktop\MVCProject\New folder\ProjectMVCDevelop\ProjectFile\AspDotNetMVCProject\Work1\bin\Microsoft.Owin.Security.Cookies.xml

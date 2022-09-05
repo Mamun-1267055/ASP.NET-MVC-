@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HotelDBCodeFstModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Designation">
+    <Key>
+      <PropertyRef Name="DId" />
+    </Key>
+    <Property Name="DId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DesignationName" Type="nvarchar" MaxLength="40" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EmployeeInfo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EmployeName" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Mail" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="Designation" Type="int" />
+    <Property Name="Picture" Type="nvarchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__EmployeeI__Desig__4E88ABD4">
+    <End Role="Designation" Type="Self.Designation" Multiplicity="0..1" />
+    <End Role="EmployeeInfo" Type="Self.EmployeeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Designation">
+        <PropertyRef Name="DId" />
+      </Principal>
+      <Dependent Role="EmployeeInfo">
+        <PropertyRef Name="Designation" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HotelDBCodeFstModelStoreContainer">
+    <EntitySet Name="Designation" EntityType="Self.Designation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EmployeeInfo" EntityType="Self.EmployeeInfo" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__EmployeeI__Desig__4E88ABD4" Association="Self.FK__EmployeeI__Desig__4E88ABD4">
+      <End Role="Designation" EntitySet="Designation" />
+      <End Role="EmployeeInfo" EntitySet="EmployeeInfo" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

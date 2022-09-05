@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HotelDBCodeFstModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Designation">
+    <Key>
+      <PropertyRef Name="DId" />
+    </Key>
+    <Property Name="DId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DesignationName" Type="String" MaxLength="40" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="EmployeeInfoes" Relationship="Self.FK__EmployeeI__Desig__4E88ABD4" FromRole="Designation" ToRole="EmployeeInfo" />
+  </EntityType>
+  <EntityType Name="EmployeeInfo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmployeName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Mail" Type="String" MaxLength="40" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Designation" Type="Int32" />
+    <Property Name="Picture" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Designation1" Relationship="Self.FK__EmployeeI__Desig__4E88ABD4" FromRole="EmployeeInfo" ToRole="Designation" />
+  </EntityType>
+  <Association Name="FK__EmployeeI__Desig__4E88ABD4">
+    <End Role="Designation" Type="Self.Designation" Multiplicity="0..1" />
+    <End Role="EmployeeInfo" Type="Self.EmployeeInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Designation">
+        <PropertyRef Name="DId" />
+      </Principal>
+      <Dependent Role="EmployeeInfo">
+        <PropertyRef Name="Designation" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HotelDBCodeFstEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Designations" EntityType="Self.Designation" />
+    <EntitySet Name="EmployeeInfoes" EntityType="Self.EmployeeInfo" />
+    <AssociationSet Name="FK__EmployeeI__Desig__4E88ABD4" Association="Self.FK__EmployeeI__Desig__4E88ABD4">
+      <End Role="Designation" EntitySet="Designations" />
+      <End Role="EmployeeInfo" EntitySet="EmployeeInfoes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

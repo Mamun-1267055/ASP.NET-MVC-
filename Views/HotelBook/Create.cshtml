@@ -1,0 +1,128 @@
+﻿@model Work1.Models.viewmodel.BookingVM
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="row">
+    <div class="col">
+        @if (ViewBag.msg == "")
+        {
+            <div class="alert alert-danger" style="display:none">@ViewBag.msg</div>
+        }
+        else
+        {
+            <div class="alert alert-danger">@ViewBag.msg</div>
+        }
+        <h2>Hotel Booking information</h2>
+        @using (Html.BeginForm("Create", "HotelBook", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div>
+                @Html.ValidationSummary(true)
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.custname, new { @class = "control-label col-md-2" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.custname, new { @class = "form-control" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.custname, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.checkingdate, new { @class = "control-label col-md-2" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.checkingdate, new { @class = "form-control", type = "date" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.checkingdate, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.checkingOut, new { @class = "control-label col-md-2" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.checkingOut, new { @class = "form-control", type = "date" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.checkingOut, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.duration, new { @class = "control-label col-md-2" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.duration, new { @class = "form-control" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.duration, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.cost, new { @class = "control-label col-md-2" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.cost, new { @class = "form-control" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.cost, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.phone, new { @class = "control-label col-md-2" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.phone, new { @class = "form-control" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.phone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.roomStatus, new { @class = "control-label col-md-2" })
+                <div class="col-6">
+                    @Html.CheckBox("roomStatus", false)
+
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.roomStatus, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.Image, new { @class = "control-label col-md-2" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.Image, new { @class = "form-control", type = "file" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.Image, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.roomType1, new { @class = "control-label col-md-2" })
+                <div class="col-6">
+                    @*@Html.DropDownListFor(x => x.roomType1, new SelectList(ViewBag.list), "----Select-----", new { @class = "form-control form-control-sm r" })*@
+                    @Html.TextBoxFor(x => x.roomType1, new { @class = "form-control" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.roomType1, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.RoomCost, new { @class = "control-label col-md-2" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.RoomCost, new { @class = "form-control" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.RoomCost, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        }
+    </div>
+    <div>
+        <a href="@Url.Action("Index","HotelBook")" class="btn btn-link">Back to list</a>
+    </div>
+</div>
+

@@ -1,0 +1,78 @@
+﻿@model Work1.Models.viewmodel.EmpVM
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="row">
+    <div class="col">
+        @using (Ajax.BeginForm(new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, UpdateTargetId = "msg", OnComplete = "clearAll" }))
+        {
+            @Html.AntiForgeryToken();
+            <h2 class="display-4">Add new Employee</h2>
+            <div class="row mb-2">
+                @Html.LabelFor(x=>x.EmpName, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.EmpName, new { @class = "form-control form-control-sm r" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.EmpName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.Phone, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.Phone, new { @class = "form-control form-control-sm r" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.Phone, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.DepartmentId, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.DropDownListFor(x => x.DepartmentId, ViewBag.depts as SelectList, "----Select-----", new { @class = "form-control form-control-sm r" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.DepartmentId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row mb-2">
+                @Html.LabelFor(x => x.image, new { @class = "col-form-label col-form-label-sm col-2 r" })
+                <div class="col-6">
+                    @Html.TextBoxFor(x => x.image, new { @class = "form-control form-control-sm r", type = "file" })
+                </div>
+                <div class="col-4">
+                    @Html.ValidationMessageFor(x => x.image, "", new { @class = "text-danger" })
+                </div>
+            </div>
+           
+            <div class="row mb-2">
+                <div class="col-10 offset-2">
+                    <button type="submit" class="btn btn-primary btn-sm">Save</button>
+                </div>
+            </div>
+            <div class="row mb-1">
+                <div id="msg">
+                </div>
+            </div>
+        }
+    </div>
+    <div>
+        <a href="@Url.Action("Index","Employees")" class="btn btn-link btn-sm"><i class="bi bi-arrow-left"></i> Back to list</a>
+    </div>
+</div>
+@section scripts{
+    <script src="~/Scripts/jquery-3.6.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+    <script>
+        $("#form0").attr("enctype","multipart/form-data")
+        function clearAll() {
+            $("#form0").trigger("reset");
+        }
+    </script>
+}
+
+
